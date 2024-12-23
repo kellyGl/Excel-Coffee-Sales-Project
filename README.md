@@ -2,7 +2,7 @@
 Introduction
 The Coffee Sales Dashboard is an advanced Excel-based tool aimed at providing a comprehensive analysis of coffee sales data. It equips stakeholders with insightful visualizations and trends about sales performance, customer behaviors, and product popularity, ultimately facilitating data-driven decision-making.
 
-#Project Overview https://github.com/kellyGl/Excel-Coffee-Sales-Project/blob/main/CoffeeSalesDashboard_files/Complete%20Dashboard.png
+Project Overview https://github.com/kellyGl/Excel-Coffee-Sales-Project/blob/main/CoffeeSalesDashboard_files/Complete%20Dashboard.png
 
 # Table of Contents
 Features
@@ -97,6 +97,6 @@ Special appreciation to data providers who contributed to the insights used in t
 Contact Information 
 For inquiries or additional information, please reach out:cybernet1819@gmail.com
 
-Your Name: Kelly Glenn
-GitHub: https://github.com/kellyGl
-LinkedIn: Kelly Glenn
+Your Name: Kelly Glenn.
+GitHub: https://github.com/kellyGl.
+LinkedIn: Kelly Glenn.
