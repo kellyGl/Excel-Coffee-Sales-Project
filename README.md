@@ -2,9 +2,9 @@
 Introduction
 The Coffee Sales Dashboard is an advanced Excel-based tool aimed at providing a comprehensive analysis of coffee sales data. It equips stakeholders with insightful visualizations and trends about sales performance, customer behaviors, and product popularity, ultimately facilitating data-driven decision-making.
 
-Project Overview <!-- Replace with your image path -->
+#Project Overview https://github.com/kellyGl/Excel-Coffee-Sales-Project/blob/main/CoffeeSalesDashboard_files/Complete%20Dashboard.png
 
-Table of Contents
+# Table of Contents
 Features
 Getting Started
 Prerequisites
@@ -17,14 +17,17 @@ Contributing
 License
 Acknowledgments
 Contact Information
-Features
+# Features
 Sales Analysis: Breakdown of sales data by year, quarter, and product. Analyze trends in customer purchases over time.
 Interactive Charts: Dynamic charts that update based on user selections to visualize key metrics such as sales volume, revenue, and customer counts.
+https://github.com/kellyGl/Excel-Coffee-Sales-Project/blob/main/CoffeeSalesDashboard_files/image002.png
 Pivot Tables: Easy-to-navigate pivot tables for efficient data summarization and exploration.
 Top Consumers Analysis: Identification and analysis of top customers based on purchase frequency and total spend.
 Geographic Sales Distribution: Visualization of sales data across different geographic locations to understand market penetration.
 User-Friendly Interface: A clean and intuitive dashboard design that requires minimal training for new users.
-Features Overview <!-- Replace with your image path -->
+# Features Overview
+
+
 
 Getting Started
 Prerequisites
@@ -37,19 +40,19 @@ Installation
 Download the Project:
 
 Clone the repository or download the ZIP file to acquire the dashboard and data files.
-git clone https://github.com/your-username/coffee-sales-dashboard.git
+git clone https://github.com/kellyGl/Excel-Coffee-Sales-Project
 Open the Dashboard:
 
 Launch CoffeeSalesDashboard.xlsx in Excel.
 Enable Macros and Content:
 
 Follow any prompts to enable macros and content for full functionality.
-Usage
+# Usage
 Navigating the Dashboard:
 Use the tabs at the bottom to switch between various analyses and reports.
 Utilizing Slicers and Filters:
 Utilize slicers and filters available on the dashboard to customize your data views dynamically.
-Usage Example <!-- Replace with your image path -->
+Usage Example https://github.com/kellyGl/Excel-Coffee-Sales-Project/blob/main/CoffeeSalesDashboard_files/loyalty%20card.png
 
 Interpreting Visuals:
 Examine the visualizations for insights. Hover over data points for additional information.
@@ -62,9 +65,9 @@ Evaluate purchase patterns and frequencies to understand customer loyalty.
 Identify the top 5 consumers and analyze their purchasing behavior.
 Geographic Distribution
 Review the country bar chart to ascertain where sales are highest, aiding in targeted marketing efforts.
-Dashboard Analysis <!-- Replace with your image path -->
+Dashboard Analysis https://github.com/kellyGl/Excel-Coffee-Sales-Project/blob/main/CoffeeSalesDashboard_files/Countries.png
 
-Data Visualization
+# Data Visualization
 The dashboard includes various types of visualizations:
 
 Column Charts: To compare sales volumes across different product categories.
@@ -77,7 +80,7 @@ Best Practices
 Regularly update the sales data to ensure the dashboard reflects the most current insights.
 Utilize the filtering features to tailor analyses suitable to specific business questions.
 Back up the Excel file regularly to prevent data loss.
-Contributing
+# Contributing
 We welcome contributions to enhance this project. To contribute:
 
 Fork the repository.
@@ -88,12 +91,12 @@ License
 This project is licensed under the MIT License. See the 
 LICENSE file for details.
 
-Acknowledgments
+# Acknowledgments
 Thank you to all contributors for their efforts and enhancements.
-Special appreciation to data providers who contributed to the insights used in this project.
-Contact Information
-For inquiries or additional information, please reach out:
+Special appreciation to data providers who contributed to the insights used in this project (kaggle).
+Contact Information 
+For inquiries or additional information, please reach out:cybernet1819@gmail.com
 
-Your Name: [Your Email]
-GitHub: [Your GitHub Profile]
-LinkedIn: [Your LinkedIn Profile]
+Your Name: Kelly Glenn
+GitHub: https://github.com/kellyGl
+LinkedIn: Kelly Glenn
