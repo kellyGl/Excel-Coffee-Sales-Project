@@ -1,4 +1,4 @@
-#Coffee Sales Dashboard
+# Coffee Sales Dashboard
 Introduction
 The Coffee Sales Dashboard is an advanced Excel-based tool aimed at providing a comprehensive analysis of coffee sales data. It equips stakeholders with insightful visualizations and trends about sales performance, customer behaviors, and product popularity, ultimately facilitating data-driven decision-making.
 
