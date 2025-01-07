@@ -20,7 +20,7 @@ Contact Information
 # Features
 Sales Analysis: Breakdown of sales data by year, quarter, and product. Analyze trends in customer purchases over time.
 Interactive Charts: Dynamic charts that update based on user selections to visualize key metrics such as sales volume, revenue, and customer counts.
-https://github.com/kellyGl/Excel-Coffee-Sales-Project/blob/main/CoffeeSalesDashboard_files/image002.png
+https://github.com/kellyGl/Excel-Coffee-Sales-Project/blob/7e92de82b260280c25a334977f3d9ac6707ed55c/CoffeeSalesDashboard_files/Complete%20Dashboard.png
 Pivot Tables: Easy-to-navigate pivot tables for efficient data summarization and exploration.
 Top Consumers Analysis: Identification and analysis of top customers based on purchase frequency and total spend.
 Geographic Sales Distribution: Visualization of sales data across different geographic locations to understand market penetration.
